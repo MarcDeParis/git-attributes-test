@@ -1,2 +1,2 @@
 "# Git Attributes" 
-*.jpq diff=exif
+*.jpg diff=exif
